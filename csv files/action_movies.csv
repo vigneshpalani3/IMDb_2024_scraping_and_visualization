@@ -1,0 +1,809 @@
+Movie_Name,Rating,Voting_Count,Duration,Genre
+Kraven the Hunter,5.5,52000.0,127,Action
+Gladiator II,6.5,225000.0,148,Action
+Twisters,6.5,165000.0,122,Action
+Sonic the Hedgehog 3,6.9,57000.0,110,Action
+Venom: The Last Dance,6.0,114000.0,110,Action
+Deadpool & Wolverine,7.6,487000.0,128,Action
+Pushpa: The Rule - Part 2,6.1,55000.0,201,Action
+Dune: Part Two,8.5,621000.0,166,Action
+The Ministry of Ungentlemanly Warfare,6.8,134000.0,122,Action
+Freaky Tales,7.2,906.0,106,Action
+The Beekeeper,6.3,155000.0,105,Action
+Carry-On,6.5,163000.0,119,Action
+Furiosa: A Mad Max Saga,7.5,283000.0,148,Action
+Civil War,7.0,235000.0,109,Action
+Fight or Flight,6.4,6000.0,97,Action
+Solo Leveling: ReAwakening,8.9,11000.0,121,Action
+Borderlands,4.7,47000.0,101,Action
+Elevation,5.6,21000.0,91,Action
+The Fall Guy,6.8,219000.0,126,Action
+The Count of Monte-Cristo,7.6,33000.0,178,Action
+Transformers One,7.6,49000.0,104,Action
+Hellboy: The Crooked Man,4.5,13000.0,99,Action
+The Lord of the Rings: The War of the Rohirrim,6.3,30000.0,134,Action
+The Crow,4.7,34000.0,111,Action
+William Tell,5.7,2300.0,133,Action
+Madame Web,4.0,100000.0,116,Action
+Rebel Ridge,6.8,87000.0,131,Action
+Road House,6.2,167000.0,121,Action
+Bad Boys: Ride or Die,6.5,99000.0,115,Action
+Kingdom of the Planet of the Apes,6.9,151000.0,145,Action
+Godzilla x Kong: The New Empire,6.0,121000.0,115,Action
+Argylle,5.6,92000.0,139,Action
+Marco,6.8,21000.0,145,Action
+Damsel,6.1,109000.0,110,Action
+Red One,6.3,139000.0,123,Action
+Homestead,5.3,3500.0,112,Action
+Love Lies Bleeding,6.6,56000.0,104,Action
+The Killer's Game,5.8,17000.0,104,Action
+Land of Bad,6.6,51000.0,113,Action
+Monkey Man,6.8,91000.0,121,Action
+Uglies,4.7,32000.0,100,Action
+Old Guy,5.2,2200.0,94,Action
+Dirty Angels,4.3,3300.0,104,Action
+Blitz,6.2,16000.0,120,Action
+The Union,5.4,53000.0,107,Action
+Kung Fu Panda 4,6.3,68000.0,94,Action
+Toofan,7.4,7600.0,145,Action
+Thelma,7.0,22000.0,98,Action
+Arcadian,5.5,23000.0,92,Action
+Attack on Titan the Movie: The Last Attack,9.2,15000.0,145,Action
+Gunner,3.2,2500.0,106,Action
+Lift,5.5,49000.0,107,Action
+Werewolves,4.4,6400.0,93,Action
+The Killer,5.7,13000.0,126,Action
+Aftermath,5.1,3800.0,97,Action
+Beverly Hills Cop: Axel F,6.4,81000.0,118,Action
+Maharaja,8.4,66000.0,141,Action
+Survive,4.6,2300.0,90,Action
+The Instigators,6.2,37000.0,101,Action
+Twilight of the Warriors: Walled In,7.0,9300.0,126,Action
+Drive-Away Dolls,5.4,23000.0,84,Action
+Absolution,5.2,7700.0,112,Action
+Apocalypse Z: The Beginning of the End,6.1,20000.0,117,Action
+Azrael,5.4,10000.0,86,Action
+Classified,3.6,2400.0,105,Action
+Atlas,5.6,56000.0,118,Action
+The Prosecutor,6.7,1700.0,117,Action
+Rebel Moon - Part Two: The Scargiver,5.3,59000.0,122,Action
+Descendants: The Rise of Red,4.7,7000.0,91,Action
+Kalki 2898 AD,7.0,66000.0,180,Action
+Long Gone Heroes,5.2,1000.0,101,Action
+Brothers,5.4,13000.0,89,Action
+Canary Black,5.3,11000.0,101,Action
+Under Paris,5.2,36000.0,104,Action
+Trigger Warning,4.6,19000.0,106,Action
+Armor,3.6,3800.0,89,Action
+Watchmen: Chapter I,7.0,6400.0,83,Action
+One More Shot,5.4,3600.0,103,Action
+Amaran,8.2,18000.0,167,Action
+The Shadow Strays,6.5,9100.0,144,Action
+Jackpot!,5.8,30000.0,106,Action
+Cash Out,4.8,2900.0,92,Action
+Weekend in Taipei,5.7,4600.0,100,Action
+The Silent Hour,6.1,7300.0,99,Action
+Duchess,4.6,1300.0,114,Action
+Watchmen: Chapter II,7.0,2900.0,90,Action
+Red Right Hand,5.5,5800.0,111,Action
+Chief of Station,4.7,4600.0,97,Action
+Fighter,6.2,52000.0,166,Action
+Boneyard,4.1,5000.0,96,Action
+Rogue Elements: A Ryan Drake Story,4.8,953.0,44,Action
+Hitpig,5.1,909.0,86,Action
+Aavesham,7.8,28000.0,155,Action
+Karma,8.0,1400.0,167,Action
+Harbin,6.4,569.0,108,Action
+Baby Invasion,4.6,398.0,80,Action
+Uprising,6.6,5500.0,126,Action
+No Way Up,4.6,10000.0,90,Action
+Baby John,5.3,17000.0,159,Action
+Megamind vs The Doom Syndicate,2.5,5500.0,83,Action
+Sikandar Ka Muqaddar,6.0,24000.0,142,Action
+The Fix,4.6,1200.0,98,Action
+River of Blood,5.3,1700.0,86,Action
+Black Heat,8.6,117.0,93,Action
+Viduthalai Part 2,7.9,16000.0,170,Action
+The Wages of Fear,4.6,4100.0,104,Action
+Damaged,4.7,7200.0,97,Action
+Devil's Knight,5.4,820.0,90,Action
+Dominique,5.3,2200.0,100,Action
+The Quiet Ones,6.4,658.0,110,Action
+Take Cover,5.1,2400.0,90,Action
+Overlord: The Sacred Kingdom,6.9,894.0,135,Action
+Operation Undead,4.6,394.0,110,Action
+Devara Part 1,6.0,20000.0,176,Action
+Role Play,5.5,19000.0,100,Action
+Justice League: Crisis on Infinite Earths - Part One,6.2,8400.0,93,Action
+Justice League: Crisis on Infinite Earths - Part Three,6.1,4500.0,94,Action
+Trouble,6.2,6700.0,98,Action
+Levels,5.0,1500.0,93,Action
+Prey,3.7,3300.0,86,Action
+Singham Again,4.8,75000.0,144,Action
+Bangkok Dog,4.8,156.0,85,Action
+Anaconda,4.8,625.0,84,Action
+Hagen,6.1,1200.0,139,Action
+The Thundermans Return,5.0,1800.0,70,Action
+Night Call,6.8,1900.0,97,Action
+My Spy: The Eternal City,5.7,11000.0,112,Action
+Dark Match,5.5,924.0,94,Action
+The Roundup: Punishment,6.6,5200.0,109,Action
+Hounds of War,4.5,1700.0,95,Action
+Hanu Man,7.7,29000.0,158,Action
+Rifle Club,7.0,4200.0,113,Action
+Jigra,6.0,23000.0,153,Action
+Mafia Wars,3.4,233.0,94,Action
+"I, the Executioner",6.3,1700.0,118,Action
+The Price of Money: A Largo Winch Adventure,5.0,1100.0,100,Action
+Badland Hunters,5.9,12000.0,107,Action
+Sunray: Fallen Soldier,4.3,622.0,115,Action
+Ultraman: Rising,6.9,6300.0,117,Action
+The Clean Up Crew,4.1,1100.0,95,Action
+Death Whisperer 2,6.4,1300.0,110,Action
+Bougainvillea,6.4,3100.0,138,Action
+Officer Black Belt,6.8,8100.0,108,Action
+Panda Plan,5.1,1200.0,99,Action
+Code 8: Part II,5.7,16000.0,100,Action
+Pani,6.9,2900.0,143,Action
+The Courier,6.0,4400.0,101,Action
+Joe Baby,7.3,30.0,86,Action
+Air Force One Down,4.4,2900.0,84,Action
+Cesium Fallout,6.5,586.0,136,Action
+11 Rebels,6.2,362.0,155,Action
+Rats!,6.5,116.0,85,Action
+A Legend,4.7,887.0,129,Action
+My Hero Academia: You're Next,7.0,2000.0,110,Action
+Cloud,6.3,1000.0,124,Action
+Vanvaas,6.6,1300.0,160,Action
+Kill Em All 2,4.1,1300.0,88,Action
+Dan Da Dan: First Encounter,8.2,2700.0,83,Action
+Article 370,7.8,25000.0,158,Action
+Darkness of Man,4.8,3200.0,109,Action
+200% Wolf,5.9,1300.0,98,Action
+Latency,4.2,2400.0,94,Action
+Elyas,6.1,1300.0,105,Action
+Operation Blood Hunt,3.4,477.0,93,Action
+The Tiger's Apprentice,5.7,2200.0,84,Action
+Life After Fighting,6.4,2000.0,126,Action
+Simarik,6.4,2500.0,111,Action
+Die Hart 2: Die Harter,4.3,5500.0,92,Action
+Raqa,5.7,177.0,107,Action
+Murder Company,3.7,1500.0,86,Action
+Lights Out,4.9,1800.0,90,Action
+Justice League: Crisis on Infinite Earths - Part Two,5.5,5300.0,94,Action
+Black Creek,8.6,7.0,116,Action
+City Hunter,6.3,5600.0,102,Action
+Snow White and the Seven Samurai,3.2,290.0,88,Action
+Hijack 1971,6.8,3300.0,100,Action
+Revolver,5.4,847.0,114,Action
+One Fast Move,5.0,2200.0,108,Action
+Sixty Minutes,5.7,5200.0,88,Action
+Khadaan,7.2,2100.0,137,Action
+Outlaw,5.2,923.0,82,Action
+Golden Kamuy,6.3,2600.0,127,Action
+Agent Recon,2.4,671.0,85,Action
+Freedom,5.9,1400.0,110,Action
+Agni,7.3,15000.0,122,Action
+Alien Country,4.4,361.0,96,Action
+Utopia,3.6,357.0,91,Action
+Angels Fallen: Warriors of Peace,4.9,5800.0,103,Action
+How to Rob a Bank,6.6,4200.0,88,Action
+Arena Wars,4.9,2100.0,96,Action
+The Twisters,2.6,329.0,86,Action
+The Last Kumite,4.6,2300.0,105,Action
+Wynonna Earp: Vengeance,5.5,1500.0,96,Action
+Jacob Tyler,4.3,56.0,133,Action
+Hellhound,4.3,502.0,103,Action
+Handsome Guys,6.5,806.0,101,Action
+Zero,6.2,42.0,88,Action
+Fight Another Day,4.9,345.0,97,Action
+Wanted Man,4.8,2600.0,85,Action
+Paradox Effect,6.0,8600.0,87,Action
+Heart of the Hunter,4.7,2100.0,105,Action
+Continental Split,3.5,544.0,88,Action
+Tales Beyond the Galaxy,4.8,172.0,76,Action
+Vettaiyan,7.0,39000.0,163,Action
+Nice Girls,4.2,1200.0,92,Action
+72 Hours,4.1,285.0,87,Action
+Striking Rescue,5.6,385.0,106,Action
+Saripodhaa Sanivaaram,7.0,9000.0,166,Action
+Sorgavaasal,6.6,1300.0,138,Action
+Alien: Rubicon,2.4,337.0,86,Action
+Agents,3.4,926.0,82,Action
+Troubleshooters,6.6,412.0,110,Action
+Bade Miyan Chote Miyan,3.7,39000.0,163,Action
+Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,7.1,8400.0,104,Action
+London Calling,7.8,20.0,109,Action
+The Hangman,3.3,999.0,92,Action
+Terminator: Skynet Rising,6.7,264.0,88,Action
+Roadkill,3.7,679.0,90,Action
+Max,7.1,3300.0,132,Action
+WWII: Operation Phoenix,6.3,73.0,106,Action
+Escape,6.4,2000.0,94,Action
+Ferry 2,5.6,3800.0,94,Action
+No Time to Spy: A Loud House Movie,6.4,443.0,81,Action
+War of the Worlds: Extinction,3.1,202.0,84,Action
+Savi,6.2,35000.0,126,Action
+Chandu Champion,7.8,34000.0,142,Action
+The Family Star,5.4,5400.0,159,Action
+40 Acres,6.8,127.0,113,Action
+Drive Back,4.7,298.0,94,Action
+12 to Midnight,3.6,285.0,96,Action
+Raayan,6.5,11000.0,145,Action
+ARM,7.1,8600.0,150,Action
+The Last Front,5.5,607.0,98,Action
+Escape from the 21st Century,6.5,858.0,98,Action
+The Lockdown,4.3,605.0,117,Action
+"Love, Courage and the Battle of Bushy Run",4.9,180.0,113,Action
+GTMax,5.0,1200.0,100,Action
+The Greatest of All Time,5.7,22000.0,183,Action
+Stuntman,6.9,164.0,114,Action
+Bionic,4.3,1700.0,110,Action
+Thangalaan,6.6,6600.0,156,Action
+Purushothamudu,5.1,2200.0,120,Action
+Kanguva,4.5,15000.0,152,Action
+Get Fast,3.6,450.0,88,Action
+Baby Assassins: Nice Days,7.3,292.0,103,Action
+The Lost Tiger,7.8,44.0,90,Action
+Vedaa,6.0,4300.0,145,Action
+Big Rage,3.6,164.0,115,Action
+Bagheera,6.7,7300.0,158,Action
+KA,7.2,1500.0,151,Action
+The Ballad of Davy Crockett,4.6,246.0,96,Action
+The Last Ronin,4.8,571.0,115,Action
+Ryan's World the Movie: Titan Universe Adventure,1.8,682.0,80,Action
+Spiders on a Plane,5.2,371.0,78,Action
+Exorcism Chronicles: The Beginning,7.2,96.0,85,Action
+Invasion,4.8,672.0,91,Action
+Yodha,5.7,8800.0,130,Action
+Ghosts of Red Ridge,3.3,155.0,81,Action
+Alienoid: The Return to the Future,6.5,2600.0,122,Action
+Yolo,6.9,3700.0,129,Action
+Everybody Loves Jenifa,8.3,83.0,135,Action
+Pimpinero: Blood and Oil,5.6,544.0,121,Action
+The Friendly,8.1,15.0,101,Action
+Ka Whawhai Tonu,7.4,176.0,115,Action
+Razakar: The Silent Genocide of Hyderabad,7.4,5300.0,166,Action
+Guntur Kaaram,5.4,25000.0,159,Action
+Tillu Square,6.6,3400.0,137,Action
+Sons of Rizk 3,6.7,1700.0,125,Action
+UI,6.9,5700.0,135,Action
+The Last of Us: Immunity,5.8,14.0,64,Action
+Mission: Cross,6.1,2600.0,105,Action
+Don't Mess with Grandma,6.0,151.0,81,Action
+Hunting with Tigers,5.6,526.0,109,Action
+Kingdom 4: Return of the Great General,7.1,1300.0,145,Action
+Ayalaan,6.0,4000.0,155,Action
+The Moon Thieves,6.1,246.0,108,Action
+Mura,7.3,6200.0,129,Action
+The Charisma Killers,6.2,653.0,101,Action
+Customs Frontline,5.4,481.0,115,Action
+Citizen of a Kind,6.7,797.0,114,Action
+Auron Mein Kahan Dum Tha,6.6,41000.0,150,Action
+Barroz: Guardian of Treasures,3.5,989.0,155,Action
+Bureau 749,4.1,521.0,123,Action
+Eagle,5.9,4900.0,159,Action
+Je Jatt Vigarh Gya,5.7,821.0,132,Action
+The Plot,4.8,375.0,100,Action
+School of Magical Animals 3,5.9,307.0,105,Action
+Cassino in Ischia,4.4,239.0,113,Action
+Snatched,4.9,209.0,101,Action
+Hunt the Wicked,5.3,109.0,102,Action
+Deaner '89,5.9,416.0,90,Action
+Cells at Work!,6.8,195.0,109,Action
+Lady Scorpions,3.6,367.0,101,Action
+Kondal,5.4,766.0,147,Action
+Sabari,8.4,5400.0,129,Action
+The Unbreakable Bunch,7.2,26.0,0,Action
+Sasan,8.6,67.0,155,Action
+The Actor,3.3,726.0,128,Action
+Taken from Rio Bravo,3.0,312.0,80,Action
+I Am What I Am 2,7.5,200.0,134,Action
+Crakk: Jeetega Toh Jiyegaa,4.7,6500.0,154,Action
+Shark Warning,3.4,264.0,94,Action
+Crisis Negotiators,6.7,709.0,120,Action
+Garudan,7.1,3300.0,133,Action
+First Nights at Freddy's,9.3,16.0,98,Action
+Martin,2.3,36000.0,147,Action
+Yudhra,5.0,13000.0,142,Action
+Non Negotiable,5.4,1200.0,87,Action
+Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj,8.1,657.0,174,Action
+(Pri)sons,5.1,267.0,100,Action
+Sheriff,6.9,1100.0,133,Action
+Baki Hanma VS Kengan Ashura,5.7,1900.0,62,Action
+I Heart Robots,4.6,2400.0,76,Action
+The Firefighters,5.7,179.0,106,Action
+Rajakili,7.3,572.0,122,Action
+The Day Everything Changed,7.9,79.0,97,Action
+Young Lion of the West,5.2,108.0,93,Action
+American Underdog,8.7,24.0,89,Action
+Art of Eight Limbs,3.9,310.0,101,Action
+Alangu,8.2,1200.0,131,Action
+Lal Salaam,4.5,1300.0,150,Action
+Kahar: Kapla High Council,6.9,450.0,102,Action
+Echo 8,3.9,191.0,96,Action
+The Bouncer,4.2,87.0,78,Action
+Diabel,5.1,239.0,108,Action
+Aho Vikramaarka,7.4,53.0,136,Action
+Crosspoint,6.8,40.0,100,Action
+STALKER: Shadow of the Zone,5.2,454.0,72,Action
+Operation Valentine,5.3,1400.0,133,Action
+Mummy Shark,2.0,177.0,66,Action
+Pusaka,6.6,37.0,90,Action
+Mobile Suit Gundam SEED Freedom,6.6,944.0,124,Action
+Jathara,6.4,1100.0,129,Action
+What Happens in Miami,4.3,219.0,90,Action
+Paradise,6.9,77.0,83,Action
+Mongol,8.7,93.0,155,Action
+Shark Island,3.2,115.0,81,Action
+Aserb: The Squadron,5.2,304.0,120,Action
+Clone Cops,8.0,191.0,96,Action
+The Traveller,5.2,207.0,134,Action
+The Grey Men,6.4,70.0,97,Action
+Checkmate,4.3,386.0,104,Action
+Bloodline,9.2,49.0,80,Action
+Six jours,6.4,100.0,95,Action
+The Wild Blade of Strangers,6.2,113.0,102,Action
+Sector 17,5.4,1300.0,146,Action
+Correr para Vivir,7.0,196.0,97,Action
+Witch Hunter,5.2,23.0,80,Action
+Agastya - Chapter 1,6.9,597.0,168,Action
+Yuva,5.8,834.0,153,Action
+Bad Boyz,4.6,606.0,150,Action
+Captain Miller,6.5,8600.0,157,Action
+Saindhav,5.0,1600.0,138,Action
+Naam,6.3,277.0,136,Action
+Ship of the Damned,2.8,295.0,88,Action
+Warrior Awang and Master Tok Gajah,4.6,472.0,118,Action
+Next to Us,4.9,222.0,125,Action
+Love You to Debt,6.2,756.0,135,Action
+Bachhala Malli,8.3,3900.0,140,Action
+Mathu Vadalara 2,7.0,1600.0,139,Action
+Conquer: Lahad Datu,6.6,506.0,120,Action
+Iddaru,8.8,296.0,148,Action
+Ape X Mecha Ape: New World Order,2.8,134.0,87,Action
+Zebra,8.0,3200.0,164,Action
+Buying Time,5.5,309.0,84,Action
+Purushothamudu,7.4,13.0,120,Action
+Iron Fighter,3.6,62.0,80,Action
+Mazhai Pidikatha Manithan,4.5,424.0,133,Action
+Dirty Money,5.6,113.0,100,Action
+24 Hours to D-Day,4.6,36.0,83,Action
+The Infallibles,4.8,751.0,99,Action
+The Kingdom,7.9,88.0,133,Action
+Sucha Soorma,6.4,916.0,136,Action
+Devaki Nandana Vasudeva,8.8,2700.0,128,Action
+Shekko,6.0,554.0,120,Action
+Ballistic,2.3,161.0,95,Action
+Sikaar,8.3,677.0,150,Action
+Hakkenden,5.7,74.0,149,Action
+High Forces,5.7,523.0,119,Action
+Clownface 3,9.5,35.0,104,Action
+Taklee Genesis x Worlds Collide,5.4,402.0,146,Action
+Rang De Basanti,8.8,144.0,174,Action
+The Experts,6.2,264.0,121,Action
+Sunfall,2.3,36.0,74,Action
+Camp Blood: Clown Shark,3.3,87.0,70,Action
+Memes & Nightmares,5.7,84.0,81,Action
+6 Hours Away,3.9,242.0,93,Action
+Turbo,5.9,3600.0,155,Action
+Rode College,6.6,424.0,168,Action
+Malayalee from India,5.6,5000.0,160,Action
+Siren,6.4,2900.0,154,Action
+Kung Fu Games,3.3,378.0,98,Action
+Onsen shâku,5.9,28.0,70,Action
+Premalo,7.3,1100.0,128,Action
+Eye for an Eye 2,6.6,500.0,90,Action
+Ghost Killer,7.1,63.0,105,Action
+Kuang Bao Ju Xi,6.0,71.0,75,Action
+Kizumonogatari: Koyomi Vamp,7.0,87.0,144,Action
+The Epidemic,5.8,70.0,95,Action
+Big City Greens the Movie: Spacecation,6.2,539.0,83,Action
+Texas Twister,2.5,157.0,88,Action
+Cholo Zombies,4.7,102.0,96,Action
+Road Wars: Max Fury,2.0,350.0,83,Action
+Mr Bachchan,3.6,5300.0,150,Action
+Gandhi 3,5.5,238.0,143,Action
+Breaking and Re-entering,5.8,440.0,109,Action
+Shu Si Yi Bo,6.6,32.0,91,Action
+My Fathers' Daughter,6.7,74.0,78,Action
+Stranded Pearl,6.0,27.0,90,Action
+Prepare to Die,4.6,232.0,93,Action
+Bhairadevi,8.9,46.0,134,Action
+Bhaiyya Ji,4.8,7400.0,150,Action
+Ameena,6.4,19.0,107,Action
+Mission: Chapter 1,5.9,1700.0,144,Action
+The Miranda Brothers,4.4,189.0,99,Action
+How to Make a Werewolf,5.9,138.0,0,Action
+Game On,5.3,2300.0,140,Action
+SCP: The Infinite Mission,6.0,32.0,0,Action
+The Heist,6.9,2000.0,120,Action
+The Mick and the Trick,5.0,75.0,96,Action
+Where Is Gilgamesh?,9.0,605.0,90,Action
+Anchakkallakokkan,6.6,1000.0,126,Action
+Slide or Die the Movie,9.0,7.0,127,Action
+Bastar: The Naxal Story,6.4,3300.0,124,Action
+Buddy,3.9,342.0,137,Action
+In Tenebras: Into the Darkness,3.3,174.0,90,Action
+Blocking the Horse,6.5,12.0,94,Action
+Tòkunbò,3.9,294.0,113,Action
+They Call Her Death,6.6,26.0,92,Action
+Panjab Files,8.1,19.0,117,Action
+Kill Craft,2.3,363.0,99,Action
+The Omicron Killer,2.9,594.0,98,Action
+Samandar,7.7,138.0,172,Action
+Nu Huo 12 Xiao Shi,6.0,47.0,86,Action
+Double Ismart,2.9,2100.0,156,Action
+Tariq,6.5,18.0,122,Action
+Nintama Rantaro Dokutake Ninja-tai Saikyou no Gunshi,7.1,17.0,90,Action
+Nothing Even Matters,5.5,77.0,90,Action
+Jithender Reddy,9.5,2400.0,136,Action
+DNA,5.1,210.0,156,Action
+The Worlds Divide,8.0,38.0,120,Action
+Fighting the Fire,8.6,1700.0,115,Action
+Anunnakiler,2.5,446.0,76,Action
+Touchdown,6.8,14.0,78,Action
+Red vs Blue: Restoration,5.6,136.0,85,Action
+Tokusou Sentai Dekaranger 20th: Fireball Booster,7.1,30.0,50,Action
+Fyre Rises,6.5,321.0,110,Action
+Mutant,4.5,59.0,90,Action
+Bangkok Breaking: Heaven and Hell,5.8,663.0,146,Action
+Gone with the Dead,4.4,47.0,96,Action
+Gold Raiders,2.0,183.0,88,Action
+Bonus Trip,4.5,224.0,113,Action
+Pottel,8.2,2700.0,148,Action
+Orang Ikan,6.7,34.0,83,Action
+The Slave and the Sorcerer,6.6,39.0,86,Action
+Ruslaan,3.3,1200.0,120,Action
+Dragon Ball Z Kai,8.4,68.0,82,Action
+Captain Avispa,5.8,173.0,96,Action
+Matka,4.7,583.0,156,Action
+Spider-Man: Final Swing,8.4,10.0,153,Action
+Appudo Ippudo Eppudo,4.7,230.0,120,Action
+Bandaa Singh Chaudhary,6.3,5200.0,113,Action
+Rob N Roll,6.1,1500.0,98,Action
+Formed Police Unit,4.6,475.0,120,Action
+Karma,4.5,17.0,111,Action
+Rendel: Cycle of Revenge,3.6,246.0,99,Action
+Soodhu Kavvum 2: Naatum Naatu Makkalum,3.7,200.0,129,Action
+The Desperate Chase,5.5,59.0,110,Action
+Kadakan,4.0,112.0,128,Action
+Transformers Prime: Galavatron's Revenge,3.4,8.0,104,Action
+Türkler Çildirmis Olmali 2: Mavi Vatan,2.2,156.0,100,Action
+Ame no naka no yokujô,5.9,70.0,132,Action
+Midas,4.6,339.0,85,Action
+The Last Chainsaw Massacre,3.8,40.0,75,Action
+Bull Shark 2,3.0,156.0,75,Action
+Saala,5.9,1100.0,130,Action
+Virunnu,7.9,875.0,125,Action
+Hell City,9.1,27.0,90,Action
+12 Gaun,6.3,883.0,147,Action
+Bohurupi,8.3,1400.0,155,Action
+Lisabi: The Uprising,6.1,124.0,107,Action
+Fuuto PI: Portrait of Kamen Rider Skull,7.4,39.0,82,Action
+Election,5.9,808.0,120,Action
+Sumaho o otoshita dake na no ni: Saishusho Final Hacking Game,7.6,18.0,116,Action
+Dange,5.3,793.0,154,Action
+Bidurbhai,9.2,379.0,148,Action
+Harom Hara,7.7,3000.0,154,Action
+Reloaded 2,7.8,1100.0,45,Action
+Sayen: The Huntress,4.4,253.0,88,Action
+Raju Gari Ammayi Naidu Gari Abbayi,8.3,3100.0,158,Action
+Neon Fear,6.1,457.0,40,Action
+Go for Broke,5.7,271.0,115,Action
+Major Grom: The Game,6.1,1800.0,168,Action
+Losing Lerato 2,9.1,33.0,96,Action
+Komandir,6.3,518.0,131,Action
+Deadzone,4.1,35.0,80,Action
+Drive,5.6,322.0,90,Action
+Spirit Riser,6.7,33.0,98,Action
+Desperado,6.0,141.0,100,Action
+Malaikottai Vaaliban,6.0,4100.0,156,Action
+Megdan: Between Water and Fire,5.4,721.0,106,Action
+Oru Anveshanathinte Thudakkam,7.1,830.0,181,Action
+Bond of Justice: Kizuna Part I - Encounter,6.2,18.0,92,Action
+London Gangsters,4.3,11.0,104,Action
+The Evil Three,6.8,931.0,30,Action
+The Alexandrian,3.8,252.0,104,Action
+Warning 2,7.1,883.0,125,Action
+Dark Fusion,8.5,235.0,90,Action
+Bheema,5.8,948.0,148,Action
+Gravediggers,6.4,29.0,91,Action
+Average Student Nani,8.0,2200.0,138,Action
+Surrender,7.8,15.0,149,Action
+Useful Idiots,8.2,18.0,92,Action
+Kamen Rider Gotchard: The Future Daybreak,7.9,70.0,63,Action
+Thundu,5.0,903.0,125,Action
+The Bottom Line,6.5,12.0,107,Action
+Black Storm,6.6,65.0,97,Action
+Sous écrous,5.4,35.0,111,Action
+Marni: The Story of Wewe Gombel,5.9,208.0,119,Action
+Honeko Akabane's Bodyguards,5.9,38.0,117,Action
+Naag Bhoomi,5.7,8.0,130,Action
+Zénithal,5.4,79.0,80,Action
+The Circuit 4: Faith Fighter,4.4,88.0,90,Action
+Love You as the World Ends Final,6.4,37.0,115,Action
+The Vampire and the Vigilante,3.7,49.0,75,Action
+Thankamani,4.6,229.0,156,Action
+Die Chaosschwestern und Pinguin Paul,5.7,66.0,100,Action
+Hit List,5.5,311.0,125,Action
+Kamen Rider 555 20th: Paradise Regained,5.9,141.0,65,Action
+Angel of the Warrior,8.5,134.0,90,Action
+"Bullets, Brothers and Blood",7.8,15.0,85,Action
+Por,5.0,609.0,154,Action
+Abudeka Is Back,5.3,34.0,120,Action
+Polar,4.4,28.0,76,Action
+Neo-Dome,6.7,17.0,15,Action
+Bonnie,7.4,34.0,120,Action
+Brattt,4.7,67.0,117,Action
+Uninvited,6.8,72.0,93,Action
+Blade of Fury,6.1,116.0,90,Action
+Pranaya Godari,7.8,2400.0,148,Action
+Artist Unknown,8.9,13.0,82,Action
+Abnormal: Buas,5.6,26.0,90,Action
+Mirza: Part 1 - Joker,6.8,239.0,165,Action
+Death Game,6.3,24.0,88,Action
+The Captives,3.5,66.0,73,Action
+Guy Manley: Super Spy,4.4,117.0,92,Action
+Hitler,5.2,304.0,128,Action
+Hrashwo Deergha,7.9,80.0,150,Action
+E-mail,5.4,805.0,119,Action
+Mahadev Ka Gorakhpur,7.8,369.0,131,Action
+Kali,5.1,414.0,96,Action
+Mega Twister,2.5,50.0,75,Action
+South Side Hero,5.4,36.0,92,Action
+Jorge da Capadócia,6.4,129.0,119,Action
+September Babies,5.8,287.0,94,Action
+Raktaksha,8.4,1400.0,118,Action
+Bhimaa,5.1,1200.0,141,Action
+Mechanic Rocky,6.5,3500.0,156,Action
+Saint Young Men: Holy Men vs Demon Army,3.0,13.0,93,Action
+Hain,2.9,45.0,95,Action
+Sentimentaaal,5.8,975.0,135,Action
+GATAO: Like Father Like Son,6.8,67.0,100,Action
+Inkabi,4.7,79.0,101,Action
+Krishnamma,6.2,364.0,138,Action
+Babu,7.6,182.0,142,Action
+Usha Parinayam,9.0,2100.0,144,Action
+Kiyma: Orman Kanunlari,4.3,35.0,81,Action
+Killer Ex,3.9,52.0,94,Action
+Gangs of Godavari,5.0,905.0,165,Action
+Nothing Unusual,9.7,12.0,92,Action
+Second Life,6.8,48.0,105,Action
+Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,6.8,32.0,71,Action
+Rathnam,5.4,3700.0,155,Action
+Roxana,3.9,66.0,98,Action
+Holy Punch,5.2,46.0,98,Action
+Haraa,5.5,2900.0,136,Action
+Kade,6.7,16.0,92,Action
+Hiranya,5.6,20.0,138,Action
+Zoloto Umalty,4.9,109.0,109,Action
+Nasha Jurm Aur Gangsters,6.9,2400.0,137,Action
+Petta Rap,4.2,1700.0,123,Action
+Raanti,6.6,1100.0,115,Action
+The Burden of Nine Lives,4.8,100.0,116,Action
+Chasing Raine,2.3,187.0,101,Action
+Emanet,7.9,30.0,97,Action
+Hide and Seek,8.2,54.0,130,Action
+Rebel,3.1,65.0,100,Action
+UmroAyyar - A New Beginning,6.9,671.0,135,Action
+Permafrost,5.7,114.0,80,Action
+Ultraman Blazar the Movie: Tokyo Kaiju Showdown,7.5,85.0,75,Action
+Sarangadhariya,8.6,3100.0,150,Action
+Gam Gam Ganesha,5.3,309.0,140,Action
+Codename: Devil,5.4,5.0,104,Action
+Dünya Mali: Eksi Bir,7.2,16.0,133,Action
+Thiragabadara Saami,6.4,96.0,115,Action
+Death Bitch,7.5,19.0,88,Action
+Mother Mafia,3.3,48.0,80,Action
+Chaari 111,4.8,258.0,130,Action
+Joachim and the Apocalypse,7.2,13.0,90,Action
+Bhaje Vaayu Vegam,6.1,553.0,136,Action
+Telekinesis,5.9,60.0,106,Action
+Yakuza Girl,2.3,66.0,82,Action
+The Escapee 3: The Final Escape,2.6,64.0,83,Action
+"Silex and the City, le film",4.9,50.0,77,Action
+Played,6.2,11.0,96,Action
+Lie Zhan,6.9,66.0,93,Action
+Dr Jason II - Lights & Shadows,4.9,321.0,62,Action
+Too Little Too Late,5.5,8.0,66,Action
+Serra das Almas,6.3,10.0,120,Action
+Dhaaak,8.6,24.0,128,Action
+Star Abyss,3.8,241.0,86,Action
+Appu,8.6,181.0,92,Action
+Rock 'n' Roll Ringo,6.4,53.0,101,Action
+Tranquility: Ghost Stories,7.6,53.0,88,Action
+Joshua: Imai Pol Kaka,4.5,585.0,130,Action
+Villain - Life of a Gangster,8.9,156.0,141,Action
+Breaking Tradition,6.9,26.0,87,Action
+Bullet,9.1,568.0,131,Action
+Cândido,6.3,59.0,99,Action
+Shadows of Betrayal: Chronicles of Ian Blair,7.3,12.0,65,Action
+Itutumba ka ng tatay ko,5.7,29.0,109,Action
+Dangerous Boys 2,5.1,9.0,115,Action
+Speed 220,6.8,1000.0,114,Action
+Surge of Power: Where There's Smoke,6.5,13.0,68,Action
+Shri Swapankumarer Badami Hyenar Kobole,5.6,324.0,146,Action
+Gally Gang Stars,9.0,2000.0,157,Action
+Viswam,4.2,635.0,155,Action
+Tiger's Trigger,4.5,17.0,84,Action
+Halloween: Mal Eterno,8.2,224.0,50,Action
+Dark World,4.6,15.0,135,Action
+Sith Wars: Episódio III - Fantasmas Dos Sith,8.6,114.0,99,Action
+Anthima Theerpu,8.0,1500.0,133,Action
+Mobile Suit Gundam: Silver Phantom,6.1,13.0,90,Action
+Pariah Volume 1: Every Street Dog Has a Name,6.8,386.0,138,Action
+Di Renjie: Tongtian xuan an,7.2,16.0,85,Action
+Mercy Killing,8.7,2700.0,131,Action
+Genis Aile 4: Cevahir & Ulvi,7.0,54.0,90,Action
+The Yoshi Movie,7.7,12.0,105,Action
+Jigar,7.1,18.0,122,Action
+Kamen Rider Geats: Jyamato Awaking,7.9,72.0,54,Action
+Rocky and Bullwinkle,9.1,12.0,100,Action
+Seetha Kalyana Vaibhogame,8.6,2000.0,146,Action
+Fights Break Sphere 3,4.7,8.0,81,Action
+The Very Last Christmas,8.5,12.0,75,Action
+Revenge,1.6,37.0,127,Action
+Usire Usire,7.5,1100.0,151,Action
+Supplier Shankara,9.3,70.0,163,Action
+Dirty Fellow,6.9,3800.0,119,Action
+Kill the Children first,7.8,26.0,106,Action
+Dheera,8.0,1300.0,123,Action
+Indrani: Epic-1 Dharam vs Karam,7.6,1100.0,157,Action
+Lorry Chapter-1,5.8,2400.0,183,Action
+Inanimate Insanity II: The Movie,8.4,229.0,106,Action
+Hope & Glory,6.6,143.0,44,Action
+The Correct Way of Youth,9.3,783.0,90,Action
+Weapon,5.5,5500.0,120,Action
+Chhota Bheem and the Curse of Damyaan,4.8,2300.0,145,Action
+Heavens: The Boy and His Robot,6.3,22.0,98,Action
+The Drunken Prodigy,5.6,15.0,107,Action
+Reeza GTR,7.4,14.0,91,Action
+Common Creed: Trafficking,6.7,8.0,106,Action
+Charlotte Link - Ohne Schuld,5.5,41.0,89,Action
+The Journey of Flower,3.9,25.0,97,Action
+El Duro,5.4,14.0,90,Action
+Achilles Curse and the Curse of Treasure,7.4,25.0,125,Action
+Marine Drive,9.5,49.0,105,Action
+Opportunity,8.9,91.0,96,Action
+Athhoi,8.0,133.0,158,Action
+Shockwaves 2,2.8,147.0,79,Action
+Chinatown Chacha,5.1,56.0,103,Action
+The Deal,8.5,26.0,130,Action
+Kohinoor,8.1,22.0,119,Action
+Blood Vendetta,7.7,236.0,90,Action
+Jurassic Exorcist,3.8,23.0,76,Action
+Crypto Storm,4.7,33.0,101,Action
+Operation Wakaliga: Fate and Blood,6.7,11.0,66,Action
+Sacrum Vindictae II,4.5,13.0,114,Action
+Naa Saami Ranga,4.5,1200.0,150,Action
+Dreams,7.6,8.0,106,Action
+Vorovka,4.9,49.0,90,Action
+Firework,6.1,12.0,60,Action
+Dead Hand,4.1,75.0,92,Action
+Happy Dragons,4.9,9.0,97,Action
+Kaveri,9.1,1500.0,101,Action
+Inherited,9.5,21.0,76,Action
+Big Brother,8.2,2000.0,115,Action
+Pushpaka Vimanam,5.6,16.0,137,Action
+Lolipop Gang,3.6,6.0,90,Action
+Zhi Bao,5.7,17.0,100,Action
+AK47,7.2,14.0,146,Action
+Re Xue Ran Shao,4.2,18.0,113,Action
+Yentha Panichesav Chanti,9.5,85.0,135,Action
+Vi possiamo salvare,2.7,103.0,89,Action
+Mirg,6.3,35.0,83,Action
+Wilhelm Gustloff,8.7,8.0,110,Action
+Ajay Gadu,7.3,1000.0,108,Action
+Rooban,6.5,281.0,125,Action
+The SML YTP Movie 2: Dimension Trouble,8.3,13.0,94,Action
+Yao Shen Ling,6.7,66.0,93,Action
+Max Beyond,6.6,17.0,93,Action
+Operation Star,7.6,23.0,102,Action
+The Delegator,4.2,17.0,96,Action
+The Bodyguard,6.6,29.0,87,Action
+Day of the Diesels,7.2,9.0,100,Action
+Skhvatka,5.2,23.0,107,Action
+The Mystery of Humanoid Puppet,6.7,62.0,88,Action
+Raja 420,6.1,21.0,81,Action
+Seven Heroes Beat the Monster,6.8,51.0,89,Action
+Framed,4.9,69.0,0,Action
+La Tamalera,8.2,9.0,115,Action
+Agent 86,6.7,6.0,87,Action
+Atu Nuvve Itu Nuvve,7.0,11.0,123,Action
+Break War,2.4,14.0,86,Action
+Speed Fight,6.8,52.0,87,Action
+Mr Natwarlal,7.6,778.0,130,Action
+Guxim,7.7,34.0,75,Action
+Vey Dharuvey,6.5,2300.0,127,Action
+Death Game,5.2,14.0,87,Action
+Oversteer,4.9,18.0,86,Action
+Sathyam,7.1,8.0,134,Action
+SMB-plush presents trick or death,8.8,16.0,120,Action
+Be Forever Yamato: Rebel 3199: Part 1: Dark Invasion,7.0,9.0,50,Action
+Isle: Alpha One,8.4,7.0,97,Action
+The Kills,8.8,9.0,70,Action
+Kaale Angrej,5.5,17.0,131,Action
+Hocus Focus,7.9,19.0,85,Action
+Bad Ass Sista,6.9,8.0,80,Action
+Pithala Maathi,7.8,848.0,140,Action
+Bloodlust,8.2,11.0,97,Action
+Jimmy's Friends,7.0,11.0,94,Action
+The ShortCut,7.8,1800.0,138,Action
+Best Cop Ever,4.3,49.0,122,Action
+Kyle and the Last Emerald 2,8.4,7.0,15,Action
+El Cartel De Teresa,8.0,9.0,96,Action
+The Domino File,4.7,7.0,102,Action
+Battling to Survive,7.0,53.0,74,Action
+The Vent,8.9,14.0,3,Action
+Ohsama Sentai King-Ohger vs Donbrothers,6.8,36.0,26,Action
+Inexternal,3.2,19.0,83,Action
+Faster: Only one lap,7.1,23.0,90,Action
+Roudhra Rupaya,7.6,2000.0,132,Action
+Gintama the Movie 2D: Courtesan of the Nation Arc,7.8,5.0,109,Action
+Travesty,6.4,5.0,78,Action
+Joy Hanu Man,8.9,25.0,143,Action
+Combat Code: Hunt,7.4,17.0,76,Action
+StarGazer: The Need of the Many,5.0,9.0,47,Action
+S-99,8.7,2100.0,119,Action
+Krapiva: Tsvetok smerti,6.1,52.0,81,Action
+Jiwa 8 Belas,5.0,19.0,86,Action
+Daanvi,1.7,7.0,117,Action
+Kreem,6.8,128.0,115,Action
+Nenu Keerthana,8.9,2100.0,155,Action
+Piri Reis: The Incredible Chart,6.8,21.0,138,Action
+Kallu Compound 1995,8.1,2000.0,140,Action
+Sesh Bazi,6.2,10.0,132,Action
+El Junior Del Patron,7.1,8.0,92,Action
+The Winter Prophecy,7.9,13.0,52,Action
+Me and the Dragon's Daughter,5.2,10.0,75,Action
+Ugravatara,7.9,552.0,122,Action
+The Dragon's Tomb,6.8,52.0,77,Action
+Cholay,8.6,56.0,60,Action
+Bloody Escape,6.1,26.0,100,Action
+Siete Vidas - El Levanton,9.6,5.0,45,Action
+Runnin' from Wolves,7.2,10.0,133,Action
+Las Hermanas Del Cartel,8.2,5.0,91,Action
+Rudra: The Beginning,9.4,38.0,135,Action
+Passazhiry,4.6,31.0,80,Action
+Klaantha,6.2,518.0,107,Action
+The Mirage,8.9,10.0,106,Action
+Dhil Raja,8.7,136.0,106,Action
+Give Me Babies,6.7,6.0,23,Action
+"La Protegida, La Película",9.3,16.0,67,Action
+Leha,2.3,42.0,98,Action
+Urban Vengeance,5.2,11.0,79,Action
+Whispers of the Imperial City,6.8,53.0,90,Action
+The End of Hen,9.7,9.0,67,Action
+Out of the Shadow,6.5,6.0,89,Action
+Xiao zi,3.5,12.0,101,Action
+Gull Lake Vice II: The Delusion Continues,8.2,16.0,58,Action
+The Overseas Killer,6.4,52.0,104,Action
+Dheera Bhagat Roy,7.8,1100.0,150,Action
+Full Clip for a Snitch,3.9,18.0,75,Action
+Po du xing dong,6.8,5.0,79,Action
+Zen Fist,7.2,8.0,45,Action
+No Man Standing,8.6,11.0,93,Action
+Duelo De Capos,6.8,22.0,83,Action
+War with the Evil,6.3,52.0,85,Action
+Kyle and the Last Emerald,5.6,17.0,20,Action
+Janna Endoro,8.1,15.0,120,Action
+Opasni shmatki,5.2,18.0,92,Action
+Killer Lee,1.9,9.0,87,Action
+Three Old Captors,7.0,50.0,94,Action
+Spider-Man: Dimension Rift,8.4,13.0,127,Action
+Lealtad o Morir,8.2,9.0,87,Action
+Pungut,6.7,11.0,100,Action
+Los Hijos De Camelia y Emilio,6.5,22.0,82,Action
+Mahserin Üç Delisi,5.9,16.0,78,Action
+Captain Superb and the Angel of Destiny,3.6,13.0,120,Action
+Luna de Hiel,5.5,14.0,83,Action
+Jefa De Jefas,8.2,9.0,82,Action
+Sehnsucht nach Firdaws,8.5,6.0,103,Action
+PW V: Tears of the Fallen,8.2,11.0,60,Action
+Bush Knife,7.0,7.0,90,Action
+Anger,8.8,18.0,83,Action
+Gadha17,8.0,11.0,90,Action
+Mandya Haida,6.2,236.0,139,Action
+Bring Back the Colour,5.9,7.0,47,Action
+Drunken Swordsman,6.7,49.0,91,Action
